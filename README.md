@@ -45,6 +45,9 @@ Built a **Power BI dashboard** visualizing satisfaction and overtime patterns to
 Processed 2 years of sales data using **SQL** and **Python** to identify top-performing products and profitable regions.  
 Created a **Power BI dashboard** to visualize marketing performance and revenue growth.
 
+📊 **Dashboard Preview:**  
+![Adidas Sales Dashboard](https://github.com/ASPAK00007/Data_Analysis_Project./blob/main/adidas-sales-analysis-2020-2021/adidas_sales_analysis_dashboard_image.png)
+
 #### 🏬 [Superstore Profitability Analysis](https://github.com/ASPAK00007/Data_Analysis_Project./tree/main/Super_Store_Project)
 Integrated **SQL** and **Python** workflows for ETL processes and profitability analysis.  
 Developed a **Power BI dashboard** highlighting profit-driving customer segments and discount inefficiencies.
