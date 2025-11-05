@@ -37,19 +37,19 @@ I enjoy exploring patterns, visualizing trends, and presenting findings that sup
 
 ### 🏗️ Projects & Work  
 
-#### 🧾 [IBM HR Analytics](https://github.com/ASPAK00007/Data_Analysis_Project/tree/main/IBM%20HR%20Analytics%20Employee%20Attrition)
+#### 🧾 [IBM HR Analytics] (https://github.com/ASPAK00007/Data_Analysis_Project/tree/main/IBM%20HR%20Analytics%20Employee%20Attrition)
 Analyzed 1,400+ employee records using **Python** and **SQL** to uncover attrition trends.  
 Built a **Power BI dashboard** visualizing satisfaction and overtime patterns to support HR retention insights.
 
-#### 🏷️ [Adidas Sales Analysis](https://github.com/ASPAK00007/Data_Analysis_Project/tree/main/adidas-sales-analysis-2020-2021)
+#### 🏷️ [Adidas Sales Analysis] (https://github.com/ASPAK00007/Data_Analysis_Project/tree/main/adidas-sales-analysis-2020-2021)
 Processed 2 years of sales data using **SQL** and **Python** to identify top-performing products and profitable regions.  
 Created a **Power BI dashboard** to visualize marketing performance and revenue growth.
 
-#### 🏬 [Superstore Profitability Analysis](https://github.com/ASPAK00007/Data_Analysis_Project/tree/main/Super_Store_Project)
+#### 🏬 [Superstore Profitability Analysis] (https://github.com/ASPAK00007/Data_Analysis_Project/tree/main/Super_Store_Project)
 Integrated **SQL** and **Python** workflows for ETL processes and profitability analysis.  
 Developed a **Power BI dashboard** highlighting profit-driving customer segments and discount inefficiencies.
 
-#### 📊 [Power BI Dashboards](https://github.com/ASPAK00007/POWER_BI_DASHBOARDS)
+#### 📊 [Power BI Dashboards] (https://github.com/ASPAK00007/POWER_BI_DASHBOARDS)
 Built multiple **interactive dashboards** in Power BI using data cleaned in **SQL**, **Python**, and **Excel**.  
 Focused on KPI tracking, regional performance, and business intelligence reporting.
 
