@@ -30,15 +30,15 @@ I enjoy exploring patterns, visualizing trends, and presenting findings that sup
 
 ### 🏗️ Projects & Work  
 
-#### 🧾 [IBM HR Analytics][(https://github.com/ASPAK00007/IBM_HR_Analytics)](https://github.com/ASPAK00007/Data_Analysis_Project./tree/main/IBM%20HR%20Analytics%20Employee%20Attrition)
+#### 🧾 [IBM HR Analytics](https://github.com/ASPAK00007/Data_Analysis_Project./tree/main/IBM%20HR%20Analytics%20Employee%20Attrition)
 Analyzed 1,400+ employee records using Python and SQL to uncover attrition trends.  
 Built a Power BI dashboard visualizing satisfaction and overtime patterns.
 
-#### 🏷️ [Adidas Sales Analysis](https://github.com/ASPAK00007/Adidas_Sales_Analysis)
+#### 🏷️ [Adidas Sales Analysis](https://github.com/ASPAK00007/Data_Analysis_Project./tree/main/adidas-sales-analysis-2020-2021)
 Processed 2 years of sales data using SQL and Python to identify top-performing products and profitable regions.  
 Created a Power BI dashboard showing marketing and revenue insights.
 
-#### 🏬 [Superstore Profitability Analysis](https://github.com/ASPAK00007/Superstore_Profitability_Analysis)
+#### 🏬 [Superstore Profitability Analysis](https://github.com/ASPAK00007/Data_Analysis_Project./tree/main/Super_Store_Project)
 Integrated SQL and Python workflows for ETL processes.  
 Developed a Power BI dashboard highlighting profit-driving customer segments.
 
